@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "class_name": "MCA",
+    "department": "COMPUTER APPLICATION",
+    "semester": "3"
+  },
+  {
+    "id": 2,
+    "class_name": "DATA ANALYTICS",
+    "department": "COMPUTER APPLICATION",
+    "semester": "3"
+  },
+  {
+    "id": 3,
+    "class_name": "CYBE SECURITY",
+    "department": "COMPUTER APPLICATION",
+    "semester": "3"
+  }
+]
+

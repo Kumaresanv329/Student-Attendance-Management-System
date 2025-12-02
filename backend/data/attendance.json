@@ -1,0 +1,944 @@
+[
+  {
+    "id": 1,
+    "student_id": 1,
+    "subject_id": 1,
+    "date": "2025-11-05",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 2,
+    "student_id": 1,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 3,
+    "student_id": 2,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 4,
+    "student_id": 3,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 5,
+    "student_id": 4,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 6,
+    "student_id": 1,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 7,
+    "student_id": 2,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 8,
+    "student_id": 3,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 9,
+    "student_id": 4,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 10,
+    "student_id": 1,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 11,
+    "student_id": 2,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 12,
+    "student_id": 3,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 13,
+    "student_id": 4,
+    "subject_id": 1,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 14,
+    "student_id": 1,
+    "subject_id": 1,
+    "date": "2025-11-04",
+    "status": "Absent",
+    "marked_by": 1
+  },
+  {
+    "id": 15,
+    "student_id": 2,
+    "subject_id": 1,
+    "date": "2025-11-04",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 16,
+    "student_id": 3,
+    "subject_id": 1,
+    "date": "2025-11-04",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 17,
+    "student_id": 4,
+    "subject_id": 1,
+    "date": "2025-11-04",
+    "status": "Present",
+    "marked_by": 1
+  },
+  {
+    "id": 18,
+    "student_id": 1,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 19,
+    "student_id": 2,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 20,
+    "student_id": 3,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 21,
+    "student_id": 4,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 22,
+    "student_id": 1,
+    "subject_id": 4,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 23,
+    "student_id": 2,
+    "subject_id": 4,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 24,
+    "student_id": 3,
+    "subject_id": 4,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 25,
+    "student_id": 4,
+    "subject_id": 4,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 26,
+    "student_id": 1,
+    "subject_id": 4,
+    "date": "2025-11-06",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 27,
+    "student_id": 2,
+    "subject_id": 4,
+    "date": "2025-11-06",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 28,
+    "student_id": 3,
+    "subject_id": 4,
+    "date": "2025-11-06",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 29,
+    "student_id": 4,
+    "subject_id": 4,
+    "date": "2025-11-06",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 30,
+    "student_id": 2,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 31,
+    "student_id": 5,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 32,
+    "student_id": 6,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 33,
+    "student_id": 7,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 34,
+    "student_id": 8,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 35,
+    "student_id": 9,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 36,
+    "student_id": 10,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 37,
+    "student_id": 11,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 38,
+    "student_id": 2,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 39,
+    "student_id": 5,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 40,
+    "student_id": 6,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 41,
+    "student_id": 7,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 42,
+    "student_id": 8,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 43,
+    "student_id": 9,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 44,
+    "student_id": 10,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 45,
+    "student_id": 11,
+    "subject_id": 2,
+    "date": "2025-11-06",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 46,
+    "student_id": 2,
+    "subject_id": 7,
+    "date": "2025-11-03",
+    "hour": 2,
+    "status": "Absent",
+    "marked_by": 9
+  },
+  {
+    "id": 47,
+    "student_id": 5,
+    "subject_id": 7,
+    "date": "2025-11-03",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 9
+  },
+  {
+    "id": 48,
+    "student_id": 6,
+    "subject_id": 7,
+    "date": "2025-11-03",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 9
+  },
+  {
+    "id": 49,
+    "student_id": 7,
+    "subject_id": 7,
+    "date": "2025-11-03",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 9
+  },
+  {
+    "id": 50,
+    "student_id": 8,
+    "subject_id": 7,
+    "date": "2025-11-03",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 9
+  },
+  {
+    "id": 51,
+    "student_id": 9,
+    "subject_id": 7,
+    "date": "2025-11-03",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 9
+  },
+  {
+    "id": 52,
+    "student_id": 10,
+    "subject_id": 7,
+    "date": "2025-11-03",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 9
+  },
+  {
+    "id": 53,
+    "student_id": 11,
+    "subject_id": 7,
+    "date": "2025-11-03",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 9
+  },
+  {
+    "id": 54,
+    "student_id": 2,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 55,
+    "student_id": 5,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 56,
+    "student_id": 6,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 57,
+    "student_id": 7,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 58,
+    "student_id": 8,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 59,
+    "student_id": 9,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 60,
+    "student_id": 10,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 61,
+    "student_id": 11,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 3,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 62,
+    "student_id": 2,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 4,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 63,
+    "student_id": 5,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 4,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 64,
+    "student_id": 6,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 4,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 65,
+    "student_id": 7,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 4,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 66,
+    "student_id": 8,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 4,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 67,
+    "student_id": 9,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 4,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 68,
+    "student_id": 10,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 4,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 69,
+    "student_id": 11,
+    "subject_id": 2,
+    "date": "2025-11-03",
+    "hour": 4,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 70,
+    "student_id": 2,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 1,
+    "status": "Absent",
+    "marked_by": 2
+  },
+  {
+    "id": 71,
+    "student_id": 5,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 72,
+    "student_id": 6,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 73,
+    "student_id": 7,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 74,
+    "student_id": 8,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 75,
+    "student_id": 9,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 76,
+    "student_id": 10,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 77,
+    "student_id": 11,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 78,
+    "student_id": 2,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 5,
+    "status": "Absent",
+    "marked_by": 2
+  },
+  {
+    "id": 79,
+    "student_id": 5,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 5,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 80,
+    "student_id": 6,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 5,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 81,
+    "student_id": 7,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 5,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 82,
+    "student_id": 8,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 5,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 83,
+    "student_id": 9,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 5,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 84,
+    "student_id": 10,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 5,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 85,
+    "student_id": 11,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 5,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 86,
+    "student_id": 2,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 6,
+    "status": "Absent",
+    "marked_by": 2
+  },
+  {
+    "id": 87,
+    "student_id": 5,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 6,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 88,
+    "student_id": 6,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 6,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 89,
+    "student_id": 7,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 6,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 90,
+    "student_id": 8,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 6,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 91,
+    "student_id": 9,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 6,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 92,
+    "student_id": 10,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 6,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 93,
+    "student_id": 11,
+    "subject_id": 4,
+    "date": "2025-11-03",
+    "hour": 6,
+    "status": "Present",
+    "marked_by": 2
+  },
+  {
+    "id": 94,
+    "student_id": 12,
+    "subject_id": 8,
+    "date": "2025-11-14",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 95,
+    "student_id": 13,
+    "subject_id": 8,
+    "date": "2025-11-14",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 96,
+    "student_id": 12,
+    "subject_id": 8,
+    "date": "2025-11-14",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 97,
+    "student_id": 13,
+    "subject_id": 8,
+    "date": "2025-11-14",
+    "hour": 1,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 98,
+    "student_id": 12,
+    "subject_id": 8,
+    "date": "2025-11-14",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 99,
+    "student_id": 13,
+    "subject_id": 8,
+    "date": "2025-11-14",
+    "hour": 2,
+    "status": "Absent",
+    "marked_by": 3
+  },
+  {
+    "id": 100,
+    "student_id": 2,
+    "subject_id": 2,
+    "date": "2025-11-14",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 101,
+    "student_id": 5,
+    "subject_id": 2,
+    "date": "2025-11-14",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 102,
+    "student_id": 6,
+    "subject_id": 2,
+    "date": "2025-11-14",
+    "hour": 2,
+    "status": "Absent",
+    "marked_by": 3
+  },
+  {
+    "id": 103,
+    "student_id": 7,
+    "subject_id": 2,
+    "date": "2025-11-14",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 104,
+    "student_id": 8,
+    "subject_id": 2,
+    "date": "2025-11-14",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 105,
+    "student_id": 9,
+    "subject_id": 2,
+    "date": "2025-11-14",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 106,
+    "student_id": 10,
+    "subject_id": 2,
+    "date": "2025-11-14",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  },
+  {
+    "id": 107,
+    "student_id": 11,
+    "subject_id": 2,
+    "date": "2025-11-14",
+    "hour": 2,
+    "status": "Present",
+    "marked_by": 3
+  }
+]

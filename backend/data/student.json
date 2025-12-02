@@ -1,0 +1,102 @@
+[
+  {
+    "id": 2,
+    "reg_no": "24CSEA003",
+    "name": "ABISHEK N",
+    "username": "24CSEA003",
+    "password": "MCA003",
+    "email": "",
+    "class_id": "1"
+  },
+  {
+    "id": 5,
+    "reg_no": "24CSEA004",
+    "name": "ADITHIYA",
+    "username": "24CSEA004",
+    "password": "MCA004",
+    "email": "",
+    "class_id": "1"
+  },
+  {
+    "id": 6,
+    "reg_no": "24CSEA005",
+    "name": "AGILESH E",
+    "username": "24CSEA005",
+    "password": "MCA005",
+    "email": "",
+    "class_id": "1"
+  },
+  {
+    "id": 7,
+    "reg_no": "24CSEA006",
+    "name": "AKILAN S",
+    "username": "24CSEA006",
+    "password": "MCA006",
+    "email": "",
+    "class_id": "1"
+  },
+  {
+    "id": 8,
+    "reg_no": "24CSEA007",
+    "name": "ANBUMANI K",
+    "username": "24CSEA007",
+    "password": "MCA007",
+    "email": "",
+    "class_id": "1"
+  },
+  {
+    "id": 9,
+    "reg_no": "24CSEA008",
+    "name": "ANCILIN",
+    "username": "24CSEA008",
+    "password": "MCA008",
+    "email": "",
+    "class_id": "1"
+  },
+  {
+    "id": 10,
+    "reg_no": "24CSEA009",
+    "name": "ANUPRIYA R",
+    "username": "24CSEA009",
+    "password": "MCA009",
+    "email": "",
+    "class_id": "1"
+  },
+  {
+    "id": 11,
+    "reg_no": "24CSEA011",
+    "name": "ARUN KUMAR P",
+    "username": "24CSEA011",
+    "password": "MCA011",
+    "email": "",
+    "class_id": "1"
+  },
+  {
+    "id": 12,
+    "reg_no": "24CSEB001",
+    "name": "HARI",
+    "username": "24CSEA007",
+    "password": "DA001",
+    "email": "",
+    "class_id": "2"
+  },
+  {
+    "id": 13,
+    "reg_no": "24CSEB002",
+    "name": "SIVA",
+    "username": "24CSEB002",
+    "password": "DA002",
+    "email": "",
+    "class_id": "2"
+  },
+  {
+    "id": 14,
+    "reg_no": "24CSEC001",
+    "name": "NAVEEN",
+    "username": "24CSEB001",
+    "password": "CS001",
+    "email": "",
+    "class_id": "3"
+  }
+]
+

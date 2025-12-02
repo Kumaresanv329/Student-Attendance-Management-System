@@ -1,0 +1,30 @@
+LOGO PLACEMENT INSTRUCTIONS
+============================
+
+To add the Bharathiar University logo to this website:
+
+1. Download or save the Bharathiar University logo image file
+2. Rename it to "logo.png" (or logo.jpg if it's a JPG file)
+3. Place it in this folder: frontend/public/logo.png
+4. The logo will automatically appear on:
+   - Login page (centered at the top)
+   - Main dashboard header (left side)
+
+Supported formats: PNG, JPG, SVG (recommended: PNG with transparent background)
+
+The logo should be:
+- High resolution for best quality
+- Aspect ratio maintained (will auto-size to fit)
+- Recommended size: 200-300px height
+
+If the logo file is not found, the image will be hidden automatically (no errors).
+
+You can download the official logo from:
+- Bharathiar University official website
+- Or use the logo image you have
+
+The logo should show:
+- Orange/saffron circular emblem with Bharathiar's portrait
+- Blue banner with "EDUCATE TO ELEVATE" motto
+- University name in Tamil and English
+

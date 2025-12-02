@@ -1,0 +1,59 @@
+[
+  {
+    "id": 2,
+    "name": "DR M PUNITHAVALLI (PROFESSOR AND HEAD)",
+    "username": "PROF001",
+    "password": "BU001",
+    "email": "",
+    "department": "COMPUTER APPLICATION"
+  },
+  {
+    "id": 3,
+    "name": "DR V BHAVANESWARI (PROFESSOR)",
+    "username": "PROF002",
+    "password": "BU002",
+    "email": "",
+    "department": "COMPUTER APPLICATION"
+  },
+  {
+    "id": 4,
+    "name": "DR J SATHEESHKUMAR (PROFESSOR)",
+    "username": "PROF003",
+    "password": "BU003",
+    "email": "",
+    "department": "COMPUTER APPLICATION"
+  },
+  {
+    "id": 6,
+    "name": "Mrs S PALANISAMY (ASSISTANT PROFESSOR)",
+    "username": "PROF005",
+    "password": "BU005",
+    "email": "",
+    "department": "COMPUTER APPLICATION"
+  },
+  {
+    "id": 7,
+    "name": "DR T AMUDHA (PROFESSOR)",
+    "username": "PROF004",
+    "password": "BU004",
+    "email": "",
+    "department": "COMPUTER APPLICATION"
+  },
+  {
+    "id": 8,
+    "name": "DR S GAVASKAR (PROFESSOR)",
+    "username": "PROF006",
+    "password": "BU006",
+    "email": "",
+    "department": "COMPUTER APPLICATION"
+  },
+  {
+    "id": 9,
+    "name": "DR R RAJAESWARI (PROFESSOR)",
+    "username": "PROF007",
+    "password": "BU007",
+    "email": "",
+    "department": "computer application"
+  }
+]
+

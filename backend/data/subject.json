@@ -1,0 +1,51 @@
+[
+  {
+    "id": 2,
+    "subject_code": "24CSEAC11",
+    "subject_name": "BIG DATA ANALYTICS",
+    "class_id": "1",
+    "professor_id": "3"
+  },
+  {
+    "id": 3,
+    "subject_code": "24CSEAC12",
+    "subject_name": "INTERNET OF THINGS",
+    "class_id": "1",
+    "professor_id": "7"
+  },
+  {
+    "id": 4,
+    "subject_code": "24CSEAC13",
+    "subject_name": "CRYPTOGRAPHY & INFORMATION SECURITY",
+    "class_id": "1",
+    "professor_id": "2"
+  },
+  {
+    "id": 5,
+    "subject_code": "24CSEAE07",
+    "subject_name": "MONGODB DATABASE",
+    "class_id": "1",
+    "professor_id": "6"
+  },
+  {
+    "id": 6,
+    "subject_code": "24CSEAE09",
+    "subject_name": "SOFT COMPUTING",
+    "class_id": "1",
+    "professor_id": "4"
+  },
+  {
+    "id": 7,
+    "subject_code": "24CSEAC10",
+    "subject_name": "WEB TECHNOLOGIES",
+    "class_id": "1",
+    "professor_id": "9"
+  },
+  {
+    "id": 8,
+    "subject_code": "24CSEADA01",
+    "subject_name": "MEACHINE LEARNING",
+    "class_id": "2",
+    "professor_id": "3"
+  }
+]
