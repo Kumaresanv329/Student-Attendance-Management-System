@@ -1,5 +1,8 @@
 # Student Attendance Management System (Node.js + React + JSON DB)
 
+Description
+  A Full Stack Student Attendance Management System built using Python, Node.js, React, and JSON DB.
+
 ## Quick Start
 
 1. Install dependencies
