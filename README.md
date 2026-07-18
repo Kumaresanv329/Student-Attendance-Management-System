@@ -1,3 +1,134 @@
+# 🎓 Student Attendance Management System
+
+A Full Stack Student Attendance Management System built using Node.js, React, Express, and JSON Database.
+
+## 📌 Overview
+
+This project helps educational institutions manage students, professors, attendance, classes, and subjects through a simple web application.
+
+---
+
+## ✨ Features
+
+- 🔐 Admin, Professor & Student Login
+- 👨‍🎓 Student Management
+- 👨‍🏫 Professor Management
+- 🏫 Class & Subject Management
+- ✅ Attendance Management
+- 📊 Attendance Reports
+- 📄 CSV Export
+- 📈 Attendance Summary
+- 📱 Responsive UI
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- JSON Database
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Project Structure
+
+```text
+backend/
+│── server.js
+│── routes/
+│── utils/
+│── data/
+
+frontend/
+│── src/
+│── components/
+│── pages/
+│── App.jsx
+```
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/Kumaresanv329/Student-Attendance-Management-System.git
+
+cd Student-Attendance-Management-System
+
+npm install
+
+npm run dev
+```
+
+Backend
+```
+http://localhost:5000
+```
+
+Frontend
+```
+http://localhost:5173
+```
+
+---
+
+## 📡 REST API
+
+### Authentication
+
+POST `/api/login`
+
+### CRUD APIs
+
+- `/api/admin`
+- `/api/professor`
+- `/api/student`
+- `/api/class`
+- `/api/subject`
+- `/api/attendance`
+
+### Attendance
+
+- Export CSV
+- Bulk Upload
+- Student Summary
+- Subject Summary
+
+
+---
+
+## 🔮 Future Improvements
+
+- MongoDB Integration
+- JWT Authentication
+- Email Notifications
+- QR Attendance
+- Face Recognition
+- Cloud Deployment
+
+---
+
+## 👨‍💻 Author
+
+**Kumaresan V**
+
+---
+
+⭐ If you like this project, give it a Star.
 # Student Attendance Management System (Node.js + React + JSON DB)
 
 Description
